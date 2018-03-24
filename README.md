@@ -1,2 +1,2 @@
 # JS Calculator
-Live Preview : 
+Live Preview : https://manalliaquat.github.io/JS-Calculator/
