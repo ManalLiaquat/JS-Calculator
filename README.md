@@ -1,2 +1,2 @@
-# JS-Calculator
-My JS Calculator
+# JS Calculator
+Live Preview : 
